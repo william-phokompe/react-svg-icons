@@ -1,19 +1,35 @@
 {
-    "name": "reat-svg-icons",
-    "version": "1.0.0",
-    "description": "",
-    "keywords": [],
-    "main": "src/index.js",
-    "dependencies": {
-        "react": "^16.2.0",
-        "react-dom": "^16.2.0",
-        "react-scripts": "^1.1.0"
-    },
-    "devDependencies": {},
-    "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-        "text": "react-scripts test --env=jsdom",
-        "eject": "react-scripts aeject"
-    }
+  "name": "reat-svg-icons",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "homepage": "https://william-phokompe.github.io/william-phokompe/react-svg-icons",
+  "dependencies": {
+    "gh-pages": "^2.1.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "^3.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "text": "react-scripts test --env=jsdom",
+    "eject": "react-scripts aeject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
 }
