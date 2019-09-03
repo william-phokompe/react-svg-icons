@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0163f53ffefb8475b622a89061ad0f8d",
+    "revision": "adb13c560e575eb443b15aecf95ac9e4",
     "url": "/react-svg-icons/index.html"
   },
   {
-    "revision": "e2b6d1bea99abc9fdb46",
+    "revision": "d11e620e61e19a4dd174",
     "url": "/react-svg-icons/static/css/main.fd6d79f2.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-svg-icons/static/js/2.24dcbad5.chunk.js"
   },
   {
-    "revision": "e2b6d1bea99abc9fdb46",
-    "url": "/react-svg-icons/static/js/main.ae2eacdf.chunk.js"
+    "revision": "d11e620e61e19a4dd174",
+    "url": "/react-svg-icons/static/js/main.051f5816.chunk.js"
   },
   {
     "revision": "c62622955981db339317",
