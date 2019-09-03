@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/william-phokompe/react-svg-icons/precache-manifest.0281a94fba0db3d6fc1f33477851e8e2.js"
+  "/william-phokompe/react-svg-icons/precache-manifest.3ba9af499f83773909837f051a6a70ac.js"
 );
 
 self.addEventListener('message', (event) => {
