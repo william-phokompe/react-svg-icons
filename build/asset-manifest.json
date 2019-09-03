@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/william-phokompe/react-svg-icons/static/css/main.fb18881b.chunk.css",
-    "main.js": "/william-phokompe/react-svg-icons/static/js/main.3461b7bc.chunk.js",
-    "main.js.map": "/william-phokompe/react-svg-icons/static/js/main.3461b7bc.chunk.js.map",
-    "runtime~main.js": "/william-phokompe/react-svg-icons/static/js/runtime~main.d336a666.js",
-    "runtime~main.js.map": "/william-phokompe/react-svg-icons/static/js/runtime~main.d336a666.js.map",
-    "static/js/2.24dcbad5.chunk.js": "/william-phokompe/react-svg-icons/static/js/2.24dcbad5.chunk.js",
-    "static/js/2.24dcbad5.chunk.js.map": "/william-phokompe/react-svg-icons/static/js/2.24dcbad5.chunk.js.map",
-    "index.html": "/william-phokompe/react-svg-icons/index.html",
-    "precache-manifest.3ba9af499f83773909837f051a6a70ac.js": "/william-phokompe/react-svg-icons/precache-manifest.3ba9af499f83773909837f051a6a70ac.js",
-    "service-worker.js": "/william-phokompe/react-svg-icons/service-worker.js",
-    "static/css/main.fb18881b.chunk.css.map": "/william-phokompe/react-svg-icons/static/css/main.fb18881b.chunk.css.map"
+    "main.css": "/react-svg-icons/static/css/main.fd6d79f2.chunk.css",
+    "main.js": "/react-svg-icons/static/js/main.051f5816.chunk.js",
+    "main.js.map": "/react-svg-icons/static/js/main.051f5816.chunk.js.map",
+    "runtime~main.js": "/react-svg-icons/static/js/runtime~main.831deade.js",
+    "runtime~main.js.map": "/react-svg-icons/static/js/runtime~main.831deade.js.map",
+    "static/js/2.24dcbad5.chunk.js": "/react-svg-icons/static/js/2.24dcbad5.chunk.js",
+    "static/js/2.24dcbad5.chunk.js.map": "/react-svg-icons/static/js/2.24dcbad5.chunk.js.map",
+    "index.html": "/react-svg-icons/index.html",
+    "precache-manifest.8a07dcd34dca3f97c6d42d0f3f3b4eea.js": "/react-svg-icons/precache-manifest.8a07dcd34dca3f97c6d42d0f3f3b4eea.js",
+    "service-worker.js": "/react-svg-icons/service-worker.js",
+    "static/css/main.fd6d79f2.chunk.css.map": "/react-svg-icons/static/css/main.fd6d79f2.chunk.css.map"
   }
 }

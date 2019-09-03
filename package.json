@@ -1,10 +1,10 @@
 {
   "name": "react-svg-icons",
   "version": "1.0.0",
-  "description": "",
+  "description": "Birthday wishes",
   "keywords": [],
   "main": "src/index.js",
-  "homepage": "https://william-phokompe.github.io/william-phokompe/react-svg-icons",
+  "homepage": "https://william-phokompe.github.io/react-svg-icons",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.2.0",

@@ -176,7 +176,7 @@ const Cake = () => (
 </svg>
 
 <div className="text">
-  <h1>...</h1>
+  <h1>Happy Birthday</h1>
   <p>...</p>
 </div>
 </div>
