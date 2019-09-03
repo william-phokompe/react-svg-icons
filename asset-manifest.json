@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-svg-icons/static/css/main.7e9e77ac.chunk.css",
-    "main.js": "/react-svg-icons/static/js/main.3461b7bc.chunk.js",
-    "main.js.map": "/react-svg-icons/static/js/main.3461b7bc.chunk.js.map",
+    "main.css": "/react-svg-icons/static/css/main.fd6d79f2.chunk.css",
+    "main.js": "/react-svg-icons/static/js/main.ae2eacdf.chunk.js",
+    "main.js.map": "/react-svg-icons/static/js/main.ae2eacdf.chunk.js.map",
     "runtime~main.js": "/react-svg-icons/static/js/runtime~main.831deade.js",
     "runtime~main.js.map": "/react-svg-icons/static/js/runtime~main.831deade.js.map",
     "static/js/2.24dcbad5.chunk.js": "/react-svg-icons/static/js/2.24dcbad5.chunk.js",
     "static/js/2.24dcbad5.chunk.js.map": "/react-svg-icons/static/js/2.24dcbad5.chunk.js.map",
     "index.html": "/react-svg-icons/index.html",
-    "precache-manifest.31c98e756789adc4b0d05227feb2e6ab.js": "/react-svg-icons/precache-manifest.31c98e756789adc4b0d05227feb2e6ab.js",
+    "precache-manifest.7f557ae84e3459bc6173d4d39aa930cb.js": "/react-svg-icons/precache-manifest.7f557ae84e3459bc6173d4d39aa930cb.js",
     "service-worker.js": "/react-svg-icons/service-worker.js",
-    "static/css/main.7e9e77ac.chunk.css.map": "/react-svg-icons/static/css/main.7e9e77ac.chunk.css.map"
+    "static/css/main.fd6d79f2.chunk.css.map": "/react-svg-icons/static/css/main.fd6d79f2.chunk.css.map"
   }
 }
